@@ -1,0 +1,62 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2em;
+}
+
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2em;
+}
+
+p{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+input{
+    margin-bottom: 25px;
+    width: 100%;
+}
+
+textarea{
+    margin-bottom: 25px;
+    width: 100%;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 40px;
+}
+
+.seccion-sup{
+	margin-top: 80px;
+}
+
+.seccion-inf{
+	margin-bottom: 100px;
+}
+
+.index{
+    margin-top: 63px;
+}
+
+.txtModal{
+    font-size: 1.2em;
+}
+
+.tituloModal{
+    color: darkred;
+}
+
+.align-der{
+    float: right;
+}
+
+#botonesMenu{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.4em;
+}
+
+#formulario{
+    padding-top: 10px;
+}
